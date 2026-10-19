@@ -16,7 +16,7 @@ const categories = [
         icon: "📝",
         description: "Quizzes and short assessments.",
         files: [
-            // { name: "Quiz 1", path: "files/quiz/quiz-1.pdf", type: "PDF" }
+            // { name: "Quiz 1", path: "Quiz1.JPEG.jpg", type: "image" }
         ]
     },
     {
